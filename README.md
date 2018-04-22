@@ -1,3 +1,3 @@
 # my-udacity-mlnd
 
-猫狗大战毕业项目
+udacity-mlnd 猫狗大战毕业项目
