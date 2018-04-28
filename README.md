@@ -15,6 +15,7 @@ https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 - keras
 - sklearn
 - matplotlib
+- PIL
 
 ## 训练所用机器
 - CPU：i7-6700k
