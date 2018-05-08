@@ -18,22 +18,22 @@ https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 - PIL
 
 ## 训练所用机器
-- CPU：i7-6700k
-- 内存：16G DDR4 2133
-- GPU:  GTX1080
+- CPU:      i7-6700k
+- Memory:   16G DDR4 2133
+- GPU:      GTX1080
 
 ## 操作系统
 Ubuntu 16.04 LTS 64位
 
 ## 运行时间
 ### 特征提取时间
-- ResNet50: 200s
-- InceptionV3: 200s
-- Xception: 300s
-- DenseNet201: 330s
-- InceptionResNetV2: 450s
+- ResNet50:           200s
+- InceptionV3:        200s
+- Xception:           300s
+- DenseNet201:        330s
+- InceptionResNetV2:  450s
 
 ### 训练时间
-- ResNet50,Xception,InceptionV3 merge: 1s/Epoch*8 Epochs
-- InceptionResNetV2,Xception,InceptionV3 merge: 1s/Epoch*8 Epochs 
+- ResNet50,Xception,InceptionV3 merge:            1s/Epoch*8 Epochs
+- InceptionResNetV2,Xception,InceptionV3 merge:   1s/Epoch*8 Epochs 
 
